@@ -1,2 +1,4 @@
 # API Project
-Project for "Algoritmi e Principi dell'Informatica" class
+Progetto per il corso "Algoritmi e Principi dell'Informatica".
+
+Per istruzioni sull'utilizzo, fare riferimento al file "ProvaFinale2020specifica.pdf"
